@@ -1,0 +1,16 @@
+{
+  "features": [
+    { "id": "custom_commands", "name": "Custom Commands", "description": "Create unlimited custom commands with embeds, buttons and advanced logic", "enabled": true },
+    { "id": "auto_moderation", "name": "Auto Moderation", "description": "Smart auto-mod with anti-spam, anti-raid and anti-nuke protection", "enabled": true },
+    { "id": "welcome_system", "name": "Welcome System", "description": "Custom welcome cards, auto-roles, DM greets and goodbye messages", "enabled": true },
+    { "id": "leveling", "name": "Leveling System", "description": "XP system with role rewards, leaderboards and custom rank cards", "enabled": true },
+    { "id": "music", "name": "Music Player", "description": "HQ music playback with queue, filters, 24/7 mode and DJ roles", "enabled": false },
+    { "id": "ai_chat", "name": "AI Chatbot", "description": "Built-in AI chatbot with image generation and conversation memory", "enabled": true },
+    { "id": "tickets", "name": "Ticket System", "description": "Advanced ticket system with categories, logs and staff management", "enabled": true },
+    { "id": "giveaways", "name": "Giveaways", "description": "Create and manage giveaways with requirements and multiple winners", "enabled": false },
+    { "id": "reaction_roles", "name": "Reaction Roles", "description": "Set up reaction roles with buttons, dropdowns and custom embeds", "enabled": true },
+    { "id": "image_tools", "name": "Image Tools", "description": "50+ image effects and manipulation tools built right into Discord", "enabled": false },
+    { "id": "security", "name": "Security Suite", "description": "Verification, captcha, alt detection and permission management", "enabled": true },
+    { "id": "server_tools", "name": "Server Utilities", "description": "Embeds, reminders, polls, QR codes, translate and much more", "enabled": true }
+  ]
+}
